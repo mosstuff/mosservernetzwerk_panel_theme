@@ -2,15 +2,15 @@
 # For documentation about conf.yml, refer to ptero.shop/dev/conf.
 
 info:
-  name: "Recolor"
-  identifier: "recolor"
+  name: "Mo's Servernetzwerk Theme"
+  identifier: "mostheme"
   description: "A Pterodactyl dark mode theme."
   flags: ""
   version: "1.4"
   target: "alpha-L53"
-  author: "sp11rum"
-  icon: "assets/logo.jpg"
-  website: "https://github.com/sp11rum/recolor"
+  author: "mosstuff"
+  icon: "assets/logo.png"
+  website: "https://github.com/mosstuff/mosservernetzwerk_panel_theme"
 
 admin:
   view: "admin/view.blade.php"
